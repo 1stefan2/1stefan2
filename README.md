@@ -1,8 +1,3 @@
-# Software Engineering Student
-
-Software Engineering student with a strong interest in exploring different areas of software development, learning new technologies, and understanding how software is designed and built.
-
-Currently working with multiple technologies while building practical projects and expanding my understanding of software engineering.
 
 ## Technologies I Have Worked With
 
