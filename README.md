@@ -1,7 +1,7 @@
 
 ## Technologies I Have Worked With
 
-Java · C · C++ · C# · SQL · NoSQL · HTML · CSS · JavaScript · Git · GitHub · Microsoft SQL Server · Spring · ASP.NET MVC · Docker · Postman
+HTML · CSS · JavaScript · C · Java · C++ · C# · SQL · NoSQL · Microsoft SQL Server · Spring · ASP.NET MVC · Git · GitHub · Docker · Postman
 
 ## Featured Projects
 
