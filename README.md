@@ -1,16 +1,23 @@
-## Hi there 👋
+# Software Engineering Student
 
-<!--
-**1stefan2/1stefan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student with a strong interest in exploring different areas of software development, learning new technologies, and understanding how software is designed and built.
 
-Here are some ideas to get you started:
+Currently working with multiple technologies while building practical projects and expanding my understanding of software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Have Worked With
+
+Java · C · C++ · C# · SQL · NoSQL · HTML · CSS · JavaScript · Git · GitHub · Microsoft SQL Server · Spring · ASP.NET MVC · Docker · Postman
+
+## Featured Projects
+
+### Calorie Tracker
+
+Currently in development.
+
+### UpravljanjeZahtevimaDB
+
+**Core Function:** CRF software change request tracking using a Master-Detail structure.
+
+**Business Logic:** Prevents a request from entering realization when the estimated effort exceeds a configured limit without manager approval.
+
+**Configuration:** The approval threshold is stored in an external JSON file, allowing the business rule to be changed without modifying the application code.
